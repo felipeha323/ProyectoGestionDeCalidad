@@ -1,0 +1,14 @@
+Para este sprint se realizara solo un daily, a partir del siguiente sprint se realizaran dos por semana
+
+Daily Sprint 1
+
+¿ Que se ha hecho ?
+
+Hasta el momento se realizó la reunión de event storming, mediante el cual se pudo realizar el documento de arquitectura
+Se inició con el index de la pagina web
+¿ Que problemas tuvimos ?
+
+Presentamos un pequeño retraso con la duración de este sprint, el cual será un retraso de un día, esto debido a la disponibilidad horaria en la que podíamos realizar el event storming, vale aclarar que las tareas de programación se presentaron de manera normal
+¿ Que haremos en el siguiente sprint ?
+
+Estará dedicada la mayor parte de las tareas a la programación, la cual contempla actividades de diseño, gestión de DB y de programación funcional de la pagina web, estas actividades pueden visualizarse en el sprint 2 en DevOps

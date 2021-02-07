@@ -1,0 +1,7 @@
+Durante el transcurso de la reunión se acordó que para este sprint se incluirán en su mayoría, tareas de programación, configuración DB y diseño inicial de la pagina web estas son las tareas pactadas según los roles y desempeño de los integrantes del equipo
+- Diseño de la interfaz, esta actividad contempla aspectos de CSS y Bootstrap - Asignada al scrum
+- Creación del panel del administrador, esto incluye aspectos tanto de programación como de diseño 
+La siguientes tareas tienen implícitamente manejo de consultas en BD
+- Creación de productos, contempla la sección del admin en la que agrega los productos
+- Creación del registro del usuario 
+- Creación de inicio de sesión 

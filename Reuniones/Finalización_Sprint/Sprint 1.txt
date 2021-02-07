@@ -1,0 +1,6 @@
+Deacuerdo a lo pactado con el equipo y el PO, se desarrollo la reunión de finalización de sprint, las cuales nos deja las siguientes conclusiones:
+
+-Debemos a partir del siguiente sprint realizar los dailys 2 dias por semana
+-Se asignaron las tareas respectivas y deacuerdo con las habilidades y roles de los integrantes del equipo
+-No se presentaron problemas en las tareas de programación, pero si hubo un retraso con la duración del sprint de un día, debido a problemas de disponibilidad horaria para sincronizarnos y hacer el event storming junto con el team de desarrollo y el PO
+-El documento de arquitectura ha quedado listo
