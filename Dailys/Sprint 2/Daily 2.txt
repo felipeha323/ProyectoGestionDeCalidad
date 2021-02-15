@@ -1,0 +1,8 @@
+Daily 2 - Sprint #2
+
+- Que se ha hecho ?
+Se ha implementado la interfaz grafica de la sección del administrador al igual que el tema del front de la pagina web
+- ¿ Que problemas tuvimos ?
+Hasta el momento no hemos tenido problema alguno hasta este daily
+- ¿ Que haremos para el siguiente daily de este sprint 2?
+Desarrollaremos el login y la zona de registro del cliente 
