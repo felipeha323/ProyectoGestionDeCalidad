@@ -1,0 +1,8 @@
+Daily 1 Sprint #2
+
+- Que se ha hecho ?
+Hasta el momento se ha hecho trabajo investigativo para desarrollar la interfaz grafica, login y la zona de registro y panel del admin
+- ¿ Que problemas tuvimos ?
+Hasta el momento no hemos tenido problema alguno hasta este daily
+- ¿ Que haremos para el siguiente daily de este sprint 2?
+Desarrollaremos el login y la zona de registro del cliente y un inicio del panel del admin
