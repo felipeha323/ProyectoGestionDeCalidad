@@ -1,0 +1,8 @@
+Daily 3 - Sprint #2
+
+- Que se ha hecho ?
+Se desarrollo el login y la zona de registro del cliente
+- ¿ Que problemas tuvimos ?
+Hasta el momento no hemos tenido problema alguno hasta este daily
+- ¿ Que haremos para el siguiente daily de este sprint 2?
+Solo falta por realizar, para dar por concluido este daily, desarrollar la zona de agregar productos
